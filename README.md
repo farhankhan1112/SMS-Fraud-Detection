@@ -2,7 +2,6 @@
 This project implements an SMS fraud detection system to classify text messages as spam (fraudulent) or ham (legitimate) using machine learning. It includes exploratory data analysis (EDA), model training, and a Streamlit web app for real-time predictions.
 
 # Technologies Used :
-
 - **Python 3.8+** : Core programming language.
 - **EDA code for** : To analyze an SMS dataset.
 - **Streamlit** : For the web app (app.py).
@@ -11,6 +10,20 @@ This project implements an SMS fraud detection system to classify text messages 
 - **matplotlib, seaborn, wordcloud, nltk** : For EDA visualizations
 - **joblib** : For saving/loading the model and vectorizer.
 - **VS Code** : Running code
+
+# 🌟 User Interface :
+  
+- The SMS Fraud Detection Web App features a simple and clean interfacev
+- built using **Streamlit**
+- user friendly 
+  ![Alt text](https://github.com/farhankhan1112/SMS-Fraud-Detection/blob/7ffb943244ad619a68a3a17f455b915154fe9e38/Screenshots/Project%20interface.png)
+
+
+
+  
+
+
+  
 
 
 # Dataset
