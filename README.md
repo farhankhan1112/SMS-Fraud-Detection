@@ -15,8 +15,18 @@ This project implements an SMS fraud detection system to classify text messages 
   
 - The SMS Fraud Detection Web App features a simple and clean interfacev
 - built using **Streamlit**
-- user friendly 
+- user friendly
+  
   ![Alt text](https://github.com/farhankhan1112/SMS-Fraud-Detection/blob/7ffb943244ad619a68a3a17f455b915154fe9e38/Screenshots/Project%20interface.png)
+
+# 🌟 Ham output :
+- Clean and User-Friendly Interface
+- After entering an SMS and clicking "Predict" the app shows the classification result as "Ham" or "Spam" directly below the button
+- If the SMS is spam, an additional warning message appears: This message is likely fraudulent!
+-  Helpful sample messages are provided to guide users in testing the model
+
+![Ham SMS](https://github.com/farhankhan1112/SMS-Fraud-Detection/blob/7ffb943244ad619a68a3a17f455b915154fe9e38/Screenshots/Ham.png
+)
 
 
 
